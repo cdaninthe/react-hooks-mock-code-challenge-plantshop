@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "cactus",
+      "image": "https://www.campbellsnursery.com/wp-content/uploads/2021/02/photos-coming-soon-scaled.jpg",
+      "price": "4.99",
+      "id": 8
+    },
+    {
+      "name": "rose",
+      "image": "https://www.campbellsnursery.com/wp-content/uploads/2021/02/photos-coming-soon-scaled.jpg",
+      "price": 0,
+      "id": 9
     }
   ]
 }
