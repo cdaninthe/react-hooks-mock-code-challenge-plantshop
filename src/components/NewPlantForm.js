@@ -12,7 +12,6 @@ function NewPlantForm({onAddPlant}) {
       image: image,
       price: price
     }
-    console.log(plantData)
     fetch("http://localhost:6001/plants", {
       method: "POST",
       headers: {

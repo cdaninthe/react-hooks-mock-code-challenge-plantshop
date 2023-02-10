@@ -25,7 +25,9 @@ function PlantPage() {
     <main>
       <NewPlantForm onAddPlant={handleAddPlant}/>
       <Search setSearch={setSearch}/>
-      <PlantList plants={plants} updatedPlants={updatedPlants}/>
+      <PlantList plants={plants} setPlants={setPlants}
+        updatedPlants={updatedPlants}
+      />
     </main>
   );
 }

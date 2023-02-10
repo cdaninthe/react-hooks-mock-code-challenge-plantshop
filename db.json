@@ -45,14 +45,8 @@
     {
       "name": "cactus",
       "image": "https://www.campbellsnursery.com/wp-content/uploads/2021/02/photos-coming-soon-scaled.jpg",
-      "price": "4.99",
+      "price": "10",
       "id": 8
-    },
-    {
-      "name": "rose",
-      "image": "https://www.campbellsnursery.com/wp-content/uploads/2021/02/photos-coming-soon-scaled.jpg",
-      "price": 0,
-      "id": 9
     }
   ]
 }
